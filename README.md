@@ -19,7 +19,7 @@ and everyone pls check status down below and everyone the only commands that wil
 
 ## STATUS
 
-.bat: RELEASED AND EVRYTHING WORKS
+.bat: online
 
-.html: not out yet
+.html: online
 
