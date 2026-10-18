@@ -21,7 +21,7 @@ and everyone pls check status down below and everyone the only commands that wil
 
 .bat: 🔴 [stopped being worked on]
 
-website: 🟠
+website: 🟠 and 🔴
 
 .html: 🟢
 
