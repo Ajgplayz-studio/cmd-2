@@ -19,7 +19,9 @@ and everyone pls check status down below and everyone the only commands that wil
 
 ## STATUS
 
-.bat: 🟠
+.bat: 🔴 [stopped being worked on]
+
+website: 🟠
 
 .html: 🟢
 
