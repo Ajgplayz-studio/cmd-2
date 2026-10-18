@@ -19,7 +19,16 @@ and everyone pls check status down below and everyone the only commands that wil
 
 ## STATUS
 
-.bat: online
+.bat: 🟠
 
-.html: online
+.html: 🟢
+
+🟢= online
+
+🟠= being updated
+
+🔴= offline [only help and exit commands would work unless you use html]
+
+
+
 
